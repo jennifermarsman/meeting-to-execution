@@ -1,0 +1,2305 @@
+WEBVTT
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/969-0
+00:00:05.558 --> 00:00:10.982
+<v Jennifer Marsman>All right. Is everybody here?
+I think we'll go ahead and get started.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/969-1
+00:00:10.982 --> 00:00:16.716
+<v Jennifer Marsman>If anyone joins late, that's fine.
+I hope the best consulting team in the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/969-2
+00:00:16.716 --> 00:00:20.280
+<v Jennifer Marsman>world had a great weekend.
+So late last week,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/969-3
+00:00:20.280 --> 00:00:25.936
+<v Jennifer Marsman>I was able to meet with a client and I
+wanted to bring back kind of the,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/969-4
+00:00:25.936 --> 00:00:27.718
+<v Jennifer Marsman>what I heard from them.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/987-0
+00:00:28.998 --> 00:00:33.878
+<v Jennifer Marsman>So this client wants an app to help with
+weight loss.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/987-1
+00:00:33.878 --> 00:00:38.758
+<v Jennifer Marsman>So it's a very ambiguous goal.
+They did say that I...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1044-0
+00:00:40.678 --> 00:00:44.047
+<v Jennifer Marsman>Ideally,
+iPhone and Android support at some point,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1044-1
+00:00:44.047 --> 00:00:48.802
+<v Jennifer Marsman>but we can go one by one if we want.
+And they did seem like open to our</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1044-2
+00:00:48.802 --> 00:00:51.907
+<v Jennifer Marsman>recommendations on which ones to tackle
+first.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1044-3
+00:00:51.907 --> 00:00:56.332
+<v Jennifer Marsman>So if we wanted to do like an MVP or a V1
+and like just one thing,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1044-4
+00:00:56.332 --> 00:00:59.238
+<v Jennifer Marsman>like I think they seemed open to that.
+And.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-0
+00:00:59.638 --> 00:01:02.736
+<v Jennifer Marsman>their feelings were, you know, with,
+I don't know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-1
+00:01:02.736 --> 00:01:07.717
+<v Jennifer Marsman>GLP of ones and everything else going on,
+there's this just big surge in interest</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-2
+00:01:07.717 --> 00:01:10.755
+<v Jennifer Marsman>and a huge market for weight loss apps
+right now.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-3
+00:01:10.755 --> 00:01:15.675
+<v Jennifer Marsman>So they really wanted to get in on that
+market and are paying for us to create a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-4
+00:01:15.675 --> 00:01:19.806
+<v Jennifer Marsman>weight loss app for them.
+I'm personally worried that it's a pretty</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1102-5
+00:01:19.806 --> 00:01:20.838
+<v Jennifer Marsman>saturated market.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-0
+00:01:21.318 --> 00:01:25.731
+<v Jennifer Marsman>But that's what the client is asking for.
+So that's what we're going to do.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-1
+00:01:25.731 --> 00:01:30.202
+<v Jennifer Marsman>So we will need to figure out how to
+differentiate from all the other weight</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-2
+00:01:30.202 --> 00:01:32.756
+<v Jennifer Marsman>loss apps that are on the market right
+now.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-3
+00:01:32.756 --> 00:01:36.066
+<v Jennifer Marsman>Helping with weight loss is like such an
+ambiguous goal.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-4
+00:01:36.066 --> 00:01:40.769
+<v Jennifer Marsman>There's so many ways that we could do
+this. There's, you know, calorie counters,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1153-5
+00:01:40.769 --> 00:01:42.278
+<v Jennifer Marsman>there's activity trackers,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1198-0
+00:01:42.918 --> 00:01:46.863
+<v Jennifer Marsman>that do things like biking and yoga and
+everything else.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1198-1
+00:01:46.863 --> 00:01:51.292
+<v Jennifer Marsman>There's actual steps counters.
+There's like logging your weight</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1198-2
+00:01:51.292 --> 00:01:54.821
+<v Jennifer Marsman>explicitly, logging your food,
+designing workouts.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1198-3
+00:01:54.821 --> 00:02:00.219
+<v Jennifer Marsman>There's offering personalized advice.
+There's tracking all those other things</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1198-4
+00:02:00.219 --> 00:02:05.478
+<v Jennifer Marsman>that can contribute to weight loss,
+like sleep and water intake and stress.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1241-0
+00:02:06.758 --> 00:02:09.916
+<v Jennifer Marsman>There are so many existing fitness apps
+out there,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1241-1
+00:02:09.916 --> 00:02:14.311
+<v Jennifer Marsman>so integration might be helpful.
+So like there was just so many ideas.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1241-2
+00:02:14.311 --> 00:02:19.140
+<v Jennifer Marsman>So what I want this meeting to be is a
+brainstorming meeting for us to figure</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1241-3
+00:02:19.140 --> 00:02:24.278
+<v Jennifer Marsman>out like how we want to tackle this and
+then we can bring that back to the client.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1254-0
+00:02:24.798 --> 00:02:30.179
+<v Jennifer Marsman>So let me open the floor for ideas of
+what you guys think we should do and how</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1254-1
+00:02:30.179 --> 00:02:34.198
+<v Jennifer Marsman>we could how we could get started with
+this. Any thoughts?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1302-0
+00:02:36.998 --> 00:02:42.144
+<v Alex Blanton>One thing I want to raise before we get
+into brainstorming is just the last</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1302-1
+00:02:42.144 --> 00:02:45.529
+<v Alex Blanton>project,
+the privacy review came very late in the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1302-2
+00:02:45.529 --> 00:02:50.607
+<v Alex Blanton>process and we had all that scramble.
+So I'd really like us to think about</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1302-3
+00:02:50.607 --> 00:02:55.617
+<v Alex Blanton>privacy up front here when we, you know,
+maybe not right first thing with</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1302-4
+00:02:55.617 --> 00:02:57.038
+<v Alex Blanton>brainstorming, but as</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1306-0
+00:02:57.398 --> 00:03:00.198
+<v Alex Blanton>in the early stage of the process,
+so we don't have that scramble at the end.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1348-0
+00:03:00.878 --> 00:03:04.164
+<v Jennifer Marsman>No, privacy will be important.
+That makes sense,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1348-1
+00:03:04.164 --> 00:03:09.327
+<v Jennifer Marsman>especially if it's logging things like my
+weight. I don't want that leaking.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1348-2
+00:03:09.327 --> 00:03:14.356
+<v Jennifer Marsman>So got it. So great point, Alex.
+Any other thoughts that people have about</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1348-3
+00:03:14.356 --> 00:03:19.318
+<v Jennifer Marsman>like how we should even get started on
+this? This is such a huge project.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1354-0
+00:03:19.958 --> 00:03:22.678
+<v Jennifer Marsman>Does anyone? Oh yeah, okay. Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-0
+00:03:21.558 --> 00:03:24.867
+<v Sarah Watrous>Oh, go ahead.
+So I think we need to start with a really</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-1
+00:03:24.867 --> 00:03:28.648
+<v Sarah Watrous>clear business model.
+So how are we going to make money and how</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-2
+00:03:28.648 --> 00:03:31.662
+<v Sarah Watrous>are we going to identify what's our
+target market?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-3
+00:03:31.662 --> 00:03:36.152
+<v Sarah Watrous>Because as you mentioned earlier,
+it's massively saturated and there's some</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-4
+00:03:36.152 --> 00:03:39.874
+<v Sarah Watrous>established players.
+And in order for us to take market share,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1405-5
+00:03:39.874 --> 00:03:43.478
+<v Sarah Watrous>we're going to need to spend some serious
+marketing dollars.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1444-0
+00:03:43.878 --> 00:03:47.615
+<v Sarah Watrous>and we're going to want to be thoughtful
+about our channel marketing and who we</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1444-1
+00:03:47.615 --> 00:03:50.698
+<v Sarah Watrous>partner if we do partnerships.
+So there's just a lot of different</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1444-2
+00:03:50.698 --> 00:03:52.847
+<v Sarah Watrous>factors,
+but we should be really crisp on our</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1444-3
+00:03:52.847 --> 00:03:56.631
+<v Sarah Watrous>business model so that we're not throwing
+money out towards something that's not</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1444-4
+00:03:56.631 --> 00:03:57.798
+<v Sarah Watrous>going to get the returns.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1439-0
+00:03:58.438 --> 00:03:58.838
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1484-0
+00:03:58.518 --> 00:04:00.947
+<v Alex Blanton>Yeah,
+we should also like consider if there's a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1484-1
+00:04:00.947 --> 00:04:03.325
+<v Alex Blanton>segment of the market we're going to go
+after.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1484-2
+00:04:03.325 --> 00:04:06.564
+<v Alex Blanton>We don't have to go after obviously
+everyone, but a particular,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1484-3
+00:04:06.564 --> 00:04:09.853
+<v Alex Blanton>I don't even really know what the weight
+loss market looks like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1484-4
+00:04:09.853 --> 00:04:12.838
+<v Alex Blanton>but I imagine there's a portion of that
+we could go after.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1472-0
+00:04:10.438 --> 00:04:10.998
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1478-0
+00:04:13.278 --> 00:04:13.718
+<v Jennifer Marsman>Okay.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1511-0
+00:04:27.798 --> 00:04:28.438
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1520-0
+00:04:28.478 --> 00:04:30.358
+<v Idan Gazit>saturated market over all of the other
+ones.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-0
+00:04:29.958 --> 00:04:32.870
+<v Jennifer Marsman>Yeah.
+I like that idea of maybe choosing a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-1
+00:04:32.870 --> 00:04:38.422
+<v Jennifer Marsman>target audience. Like if we focus on just,
+I don't know, senior citizens or like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-2
+00:04:38.422 --> 00:04:43.094
+<v Jennifer Marsman>or people over 50 or just, you know,
+men or just women or, you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-3
+00:04:43.094 --> 00:04:46.615
+<v Jennifer Marsman>something like that. If we carve out a,
+that niche,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-4
+00:04:46.615 --> 00:04:51.219
+<v Jennifer Marsman>maybe that would help us differentiate
+well. So that's a good idea.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1573-5
+00:04:51.219 --> 00:04:54.198
+<v Jennifer Marsman>We probably need to do more research
+there.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1584-0
+00:04:54.518 --> 00:04:57.010
+<v Jennifer Marsman>On, like,
+what the what the markets look like and</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1584-1
+00:04:57.010 --> 00:05:00.099
+<v Jennifer Marsman>what the business,
+the best business opportunity is, um, but.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1597-0
+00:04:59.478 --> 00:05:02.522
+<v Alex Blanton>Yeah,
+do we have any foregoing research or is</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1584-2
+00:05:00.099 --> 00:05:00.198
+<v Jennifer Marsman>..</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1597-1
+00:05:02.522 --> 00:05:04.838
+<v Alex Blanton>we kind of coming in fresh to this?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-0
+00:05:04.918 --> 00:05:08.072
+<v Jennifer Marsman>We're coming in fresh.
+Like all I have is what the client gave</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-1
+00:05:08.072 --> 00:05:12.027
+<v Jennifer Marsman>me and honestly, you know, they don't,
+they clients never know what they want.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1608-0
+00:05:08.238 --> 00:05:08.518
+<v Alex Blanton>K.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-2
+00:05:12.027 --> 00:05:15.882
+<v Jennifer Marsman>So I think we have to do a lot of
+research and present to them like, here's,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-3
+00:05:15.882 --> 00:05:18.986
+<v Jennifer Marsman>here's what we think you should do in the
+aspects that we do.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-4
+00:05:18.986 --> 00:05:23.092
+<v Jennifer Marsman>So maybe we could start up some research
+processes going right shortly after this</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-5
+00:05:23.092 --> 00:05:26.997
+<v Jennifer Marsman>to kind of figure out what the market
+looks like right now and where the best</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1657-6
+00:05:26.997 --> 00:05:28.198
+<v Jennifer Marsman>business opportunity is.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1699-0
+00:05:29.718 --> 00:05:34.489
+<v Weishung Liu>I think given that I would love to see,
+you know, as part of that market study,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1699-1
+00:05:34.489 --> 00:05:38.544
+<v Weishung Liu>not only understanding what is a segment,
+but what in that segment,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1699-2
+00:05:38.544 --> 00:05:43.017
+<v Weishung Liu>what kinds of apps do they typically
+stick with and do they typically use,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1685-0
+00:05:42.598 --> 00:05:42.918
+<v Alex Blanton>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1699-3
+00:05:43.017 --> 00:05:47.728
+<v Weishung Liu>right? So what are like, for example,
+the top 10 apps that if we, for example,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1699-4
+00:05:47.728 --> 00:05:49.278
+<v Weishung Liu>target, you know, an older</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-0
+00:05:49.398 --> 00:05:52.734
+<v Weishung Liu>crew, like an older segment, you know,
+for example,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1703-0
+00:05:52.038 --> 00:05:52.518
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-1
+00:05:52.734 --> 00:05:57.865
+<v Weishung Liu>is Duolingo something that they really
+are interested in or other types of apps</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-2
+00:05:57.865 --> 00:06:01.649
+<v Weishung Liu>that are really sticky that kind of keep
+them coming back?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-3
+00:06:01.649 --> 00:06:06.460
+<v Weishung Liu>Because I think coming back to also
+Sarah's point of how do we make money?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-4
+00:06:06.460 --> 00:06:09.667
+<v Weishung Liu>I mean,
+I wonder if there's sort of that freemium</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1755-5
+00:06:09.667 --> 00:06:11.398
+<v Weishung Liu>aspect that we think about.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1801-0
+00:06:11.438 --> 00:06:14.518
+<v Weishung Liu>where you start,
+where you kind of draw people in,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1801-1
+00:06:14.518 --> 00:06:18.564
+<v Weishung Liu>but then you create that that desire for
+them to keep coming back.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1801-2
+00:06:18.564 --> 00:06:23.395
+<v Weishung Liu>We want to think about like daily active
+users and then weekly active users and</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1801-3
+00:06:23.395 --> 00:06:28.166
+<v Weishung Liu>then monthly active users and some of the
+best ways to do that and create like</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1801-4
+00:06:28.166 --> 00:06:30.038
+<v Weishung Liu>create that kind of stickiness.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1823-0
+00:06:30.278 --> 00:06:33.987
+<v Weishung Liu>is like creating streaks, right? Like, oh,
+hey, you get,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1823-1
+00:06:33.987 --> 00:06:38.737
+<v Weishung Liu>you every day you log back in,
+something is great. Or as we think about,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1823-2
+00:06:38.737 --> 00:06:40.038
+<v Weishung Liu>you know, how do we.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1834-0
+00:06:41.718 --> 00:06:45.158
+<v Weishung Liu>Maybe it's even push notifications.
+How do we bring people back every day?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1840-0
+00:06:46.278 --> 00:06:46.998
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1871-0
+00:06:46.358 --> 00:06:50.797
+<v Weishung Liu>Because once we show that we had like
+help the customer or the client bring</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1871-1
+00:06:50.797 --> 00:06:54.243
+<v Weishung Liu>customers back and like they'll keep
+growing users, right?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1871-2
+00:06:54.243 --> 00:06:58.215
+<v Weishung Liu>Because they'll see those,
+the Dao metrics keep growing and growing</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1871-3
+00:06:58.215 --> 00:06:59.558
+<v Weishung Liu>and growing, hopefully.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-0
+00:07:00.038 --> 00:07:03.986
+<v Jennifer Marsman>Yeah, that's a great point. I saw,
+I have something to say,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-1
+00:07:03.986 --> 00:07:08.790
+<v Jennifer Marsman>but I saw Idan has his hand up.
+So why don't you go first? Oh, me first?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-2
+00:07:08.790 --> 00:07:14.252
+<v Jennifer Marsman>Okay. I love that idea, Weiwei, honestly.
+I definitely think the freemium model is</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-3
+00:07:14.252 --> 00:07:17.739
+<v Jennifer Marsman>good because we can hopefully get a large,
+you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-4
+00:07:17.739 --> 00:07:23.004
+<v Jennifer Marsman>a bunch of downloads by having a free app
+and make it easier to get in people's</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1921-5
+00:07:23.004 --> 00:07:23.398
+<v Jennifer Marsman>hands.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1968-0
+00:07:23.678 --> 00:07:28.836
+<v Jennifer Marsman>And then when you think about like,
+there's so much we could do with AI here.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1968-1
+00:07:28.836 --> 00:07:33.928
+<v Jennifer Marsman>So maybe some of these AI features,
+which are going to be more expensive for</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1968-2
+00:07:33.928 --> 00:07:39.085
+<v Jennifer Marsman>us because we have to call whatever
+models to do it, maybe those are upsells.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1968-3
+00:07:39.085 --> 00:07:43.714
+<v Jennifer Marsman>So things like, I don't know,
+taking a picture of your food and using</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/1968-4
+00:07:43.714 --> 00:07:44.838
+<v Jennifer Marsman>AI to convert it.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-0
+00:07:44.918 --> 00:07:50.042
+<v Jennifer Marsman>to a food log with calories and all the
+other macros that people care. Protein,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-1
+00:07:50.042 --> 00:07:53.180
+<v Jennifer Marsman>all I hear about at my age is protein for
+women.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-2
+00:07:53.180 --> 00:07:57.920
+<v Jennifer Marsman>You need to be eating protein 24-7 or
+else you're going to die. And then,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-3
+00:07:57.920 --> 00:08:01.506
+<v Jennifer Marsman>I don't know,
+AI to personalize your workout routine or</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-4
+00:08:01.506 --> 00:08:06.054
+<v Jennifer Marsman>AI to recommend healthier food swaps.
+So think about like if I'm doing</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2015-5
+00:08:06.054 --> 00:08:07.078
+<v Jennifer Marsman>mayonnaise on my</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2041-0
+00:08:07.478 --> 00:08:10.419
+<v Jennifer Marsman>you know,
+swapping mayonnaise for Greek yogurt or</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2041-1
+00:08:10.419 --> 00:08:13.301
+<v Jennifer Marsman>whatever,
+that's those kind of things that an AI</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2041-2
+00:08:13.301 --> 00:08:16.712
+<v Jennifer Marsman>could recommend.
+And that could potentially be an upsell.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2041-3
+00:08:16.712 --> 00:08:20.358
+<v Jennifer Marsman>I don't know. I'm sorry, go ahead. Idan,
+what was your point?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2086-0
+00:08:22.278 --> 00:08:26.775
+<v Idan Gazit>So, you know,
+in information that will shock you all,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2086-1
+00:08:26.775 --> 00:08:33.105
+<v Idan Gazit>I'm like super into like devices.
+And I have to wonder if maybe that's good</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2086-2
+00:08:33.105 --> 00:08:37.935
+<v Idan Gazit>on both the business level and on the
+go-to-market level,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2086-3
+00:08:37.935 --> 00:08:42.598
+<v Idan Gazit>like focusing on the kinds of people that
+have devices.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2131-0
+00:08:42.878 --> 00:08:45.658
+<v Idan Gazit>that are very into the whole quantified
+self thing.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2131-1
+00:08:45.658 --> 00:08:49.934
+<v Idan Gazit>These are the people that are gonna turn
+around and they're gonna make noise on</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2131-2
+00:08:49.934 --> 00:08:52.767
+<v Idan Gazit>social and whatever about like, you know,
+like, hey,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2131-3
+00:08:52.767 --> 00:08:56.936
+<v Idan Gazit>I like added this app to my life and it
+had all this impact and here I've got</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2131-4
+00:08:56.936 --> 00:09:00.998
+<v Idan Gazit>charts and blah, blah, blah. So like,
+they're a good set of early adopters.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-0
+00:09:01.958 --> 00:09:05.659
+<v Idan Gazit>It also is like, you know,
+a watch on my wrist is a device that's</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-1
+00:09:05.659 --> 00:09:08.742
+<v Idan Gazit>constantly in my face,
+even when I'm like working out.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-2
+00:09:08.742 --> 00:09:12.275
+<v Idan Gazit>It's not like, you know,
+I pull out my phone on the treadmill.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-3
+00:09:12.275 --> 00:09:15.190
+<v Idan Gazit>And thirdly,
+like maybe from a revenue perspective,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-4
+00:09:15.190 --> 00:09:17.937
+<v Idan Gazit>you know,
+we can get into like recurring revenue</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2181-5
+00:09:17.937 --> 00:09:22.198
+<v Idan Gazit>territory by doing deals with like the
+hardware providers of the whatevers.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2217-0
+00:09:22.598 --> 00:09:25.514
+<v Idan Gazit>and that'll be attractive because it's
+not just like, okay,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2217-1
+00:09:25.514 --> 00:09:28.332
+<v Idan Gazit>I buy a subscription and it's just
+software in the cloud,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2217-2
+00:09:28.332 --> 00:09:31.685
+<v Idan Gazit>but like if I buy the watch,
+it comes like six months with the watch</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2217-3
+00:09:31.685 --> 00:09:35.718
+<v Idan Gazit>or a year with the watch or I don't know,
+like there's room there to like dip into</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2214-0
+00:09:33.958 --> 00:09:36.118
+<v Jennifer Marsman>Oh, I like that. Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2217-4
+00:09:35.718 --> 00:09:37.078
+<v Idan Gazit>more than one pool of money.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2216-0
+00:09:38.278 --> 00:09:39.318
+<v Jennifer Marsman>That's a great idea.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2235-0
+00:09:40.678 --> 00:09:43.265
+<v Jennifer Marsman>That's cool.
+We should think more about that</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2222-0
+00:09:42.278 --> 00:09:42.678
+<v Alex Blanton>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2235-1
+00:09:43.265 --> 00:09:46.598
+<v Jennifer Marsman>integration. Go ahead.
+I see Alex has his hand up though.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2244-0
+00:09:46.998 --> 00:09:49.785
+<v Alex Blanton>Yeah, I mean,
+I think these are all really good ideas.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2244-1
+00:09:49.785 --> 00:09:51.558
+<v Alex Blanton>As we think about it, let's also...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2291-0
+00:09:52.918 --> 00:09:59.512
+<v Alex Blanton>be thinking about what kind of data we
+can ask for from people and how that data</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2291-1
+00:09:59.512 --> 00:10:05.781
+<v Alex Blanton>is secured so that data that people might
+not want to share out on social or</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2291-2
+00:10:05.781 --> 00:10:09.688
+<v Alex Blanton>wherever doesn't leak out sort of
+unexpectedly.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2291-3
+00:10:09.688 --> 00:10:13.758
+<v Alex Blanton>Like if you remember earlier in Strava's
+history,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2320-0
+00:10:13.878 --> 00:10:18.689
+<v Alex Blanton>the some of the soldiers at a base in
+like Afghanistan or somewhere were</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2320-1
+00:10:18.689 --> 00:10:22.380
+<v Alex Blanton>logging their runs,
+which seemed perfectly fine from an</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2320-2
+00:10:22.380 --> 00:10:27.718
+<v Alex Blanton>individual standpoint, but as a group,
+then some of that was public and so then.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2368-0
+00:10:28.758 --> 00:10:32.743
+<v Alex Blanton>people, adversaries,
+whoever could see like where this base</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2330-0
+00:10:28.998 --> 00:10:32.678
+<v Jennifer Marsman>They figured out the soldiers. Oh no.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2368-1
+00:10:32.743 --> 00:10:36.727
+<v Alex Blanton>was. So, you know,
+this is like that situation is not going</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2335-0
+00:10:34.118 --> 00:10:34.838
+<v Jennifer Marsman>My gosh.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2368-2
+00:10:36.727 --> 00:10:41.907
+<v Alex Blanton>to happen with our weight loss app,
+but let's be aware of things that sort of</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2368-3
+00:10:41.907 --> 00:10:45.958
+<v Alex Blanton>unanticipated issues with the data if it
+is shared publicly.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-0
+00:10:46.198 --> 00:10:50.226
+<v Jennifer Marsman>Yeah, no, there definitely is. Like,
+I don't think the data should be shared</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-1
+00:10:50.226 --> 00:10:52.894
+<v Jennifer Marsman>publicly,
+but I do agree that there's all of those</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-2
+00:10:52.894 --> 00:10:55.666
+<v Jennifer Marsman>things. Like,
+so weight in itself can be a sensitive</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-3
+00:10:55.666 --> 00:10:58.229
+<v Jennifer Marsman>topic,
+but there's a whole bunch of other things</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-4
+00:10:58.229 --> 00:11:01.524
+<v Jennifer Marsman>that factor into weight loss that we
+might want to ask people,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-5
+00:11:01.524 --> 00:11:05.866
+<v Jennifer Marsman>like your age matters for how, you know,
+a 20 year old loses weight different than</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2419-6
+00:11:05.866 --> 00:11:06.598
+<v Jennifer Marsman>a 50 year old.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2451-0
+00:11:06.918 --> 00:11:11.538
+<v Jennifer Marsman>And same thing with gender, right?
+The way women and men lose weight is</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2451-1
+00:11:11.538 --> 00:11:15.773
+<v Jennifer Marsman>different too. So like,
+I think we need to ask for a whole lot of</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2451-2
+00:11:15.773 --> 00:11:19.558
+<v Jennifer Marsman>PII and we'll have to make sure that that
+data is secured.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2490-0
+00:11:20.198 --> 00:11:22.720
+<v Alex Blanton>Yeah,
+and let's check with the privacy folks</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2490-1
+00:11:22.720 --> 00:11:25.857
+<v Alex Blanton>about what we can reasonably ask for and
+what we can't.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2490-2
+00:11:25.857 --> 00:11:29.892
+<v Alex Blanton>There might be things like gender or
+whatever that there, I don't know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2471-0
+00:11:27.798 --> 00:11:29.078
+<v Jennifer Marsman>Okay. Okay.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2490-3
+00:11:29.892 --> 00:11:34.094
+<v Alex Blanton>there just might be restrictions.
+We just check on that before we build it</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2490-4
+00:11:34.094 --> 00:11:34.878
+<v Alex Blanton>into the plan.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2493-0
+00:11:35.558 --> 00:11:38.438
+<v Jennifer Marsman>Okay, got it. Sarah has her hand up next.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-0
+00:11:39.158 --> 00:11:41.850
+<v Sarah Watrous>Yeah,
+one of the things that I don't think I'm</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-1
+00:11:41.850 --> 00:11:45.860
+<v Sarah Watrous>super clear on is the company, the client.
+Like what else do they do?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-2
+00:11:45.860 --> 00:11:49.984
+<v Sarah Watrous>Because from a business perspective,
+an app does not create a business.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-3
+00:11:49.984 --> 00:11:54.394
+<v Sarah Watrous>Like you're not just really going to
+drive enough revenue to probably really</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-4
+00:11:54.394 --> 00:11:57.430
+<v Sarah Watrous>expand and grow.
+So what is this app a gateway into?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2549-5
+00:11:57.430 --> 00:11:58.518
+<v Sarah Watrous>Like do they offer?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-0
+00:11:58.918 --> 00:12:02.260
+<v Sarah Watrous>some sort of other product that we're
+trying to create? Like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-1
+00:12:02.260 --> 00:12:06.679
+<v Sarah Watrous>are we actually just using the app as a
+front door for actually selling something</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-2
+00:12:06.679 --> 00:12:09.481
+<v Sarah Watrous>else? Like,
+should we partner with a pharmaceutical</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-3
+00:12:09.481 --> 00:12:13.523
+<v Sarah Watrous>company who's selling GLPs and this app
+is like actually driving people to</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-4
+00:12:13.523 --> 00:12:17.618
+<v Sarah Watrous>purchase the GLP or a wearable or some
+sort of, you know, is it a physical,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-5
+00:12:17.618 --> 00:12:21.929
+<v Sarah Watrous>like a product, like clothing or whatnot?
+But I think just as a standalone app,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2601-0
+00:12:20.998 --> 00:12:21.558
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2615-6
+00:12:21.929 --> 00:12:23.438
+<v Sarah Watrous>there are so many out there.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2629-0
+00:12:23.518 --> 00:12:27.956
+<v Sarah Watrous>there unless we're just re-skinning like
+Noom or one of the many others that are</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2629-1
+00:12:27.956 --> 00:12:30.530
+<v Sarah Watrous>there,
+we're not going to really differentiate</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2629-2
+00:12:30.530 --> 00:12:31.078
+<v Sarah Watrous>ourselves.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2676-0
+00:12:31.638 --> 00:12:37.013
+<v Jennifer Marsman>That is an excellent question, Sarah.
+I did not get that information from the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2676-1
+00:12:37.013 --> 00:12:42.181
+<v Jennifer Marsman>client at this point. What he seemed,
+it seemed like they were a very rich</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2676-2
+00:12:42.181 --> 00:12:45.282
+<v Jennifer Marsman>person who was into bodybuilding and
+wanted,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2676-3
+00:12:45.282 --> 00:12:50.518
+<v Jennifer Marsman>had enough money to throw at our
+consulting company to build this for them.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2704-0
+00:12:51.238 --> 00:12:55.060
+<v Jennifer Marsman>But maybe I'm wrong.
+Maybe there is something else in this</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2704-1
+00:12:55.060 --> 00:13:00.372
+<v Jennifer Marsman>backstory that I hadn't thought through.
+So let, do you, yeah, I'm not 100% sure.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2704-2
+00:13:00.372 --> 00:13:03.547
+<v Jennifer Marsman>I'll ask,
+I'll make a note to follow up with the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2704-3
+00:13:03.547 --> 00:13:04.518
+<v Jennifer Marsman>client on that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2709-0
+00:13:06.438 --> 00:13:07.958
+<v Sarah Watrous>I think that helps us, but yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2749-0
+00:13:06.438 --> 00:13:09.747
+<v Weishung Liu>Jen,
+I love that information because I feel</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2749-1
+00:13:09.747 --> 00:13:14.636
+<v Weishung Liu>like, sorry, my cat just attacked me.
+Now it's on the recording.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2749-2
+00:13:14.636 --> 00:13:19.148
+<v Weishung Liu>But in any case,
+what I was thinking was like, for example,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2749-3
+00:13:19.148 --> 00:13:24.488
+<v Weishung Liu>if this is around bodybuilding, you know,
+like what is our MVP, right?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2749-4
+00:13:24.488 --> 00:13:28.398
+<v Weishung Liu>Like what are we,
+what are we proposing as a first?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-0
+00:13:28.478 --> 00:13:31.287
+<v Weishung Liu>build,
+if this is indeed related to what the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-1
+00:13:31.287 --> 00:13:34.157
+<v Weishung Liu>client specifically wants. I think,
+you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-2
+00:13:34.157 --> 00:13:38.026
+<v Weishung Liu>because as I consider what a first launch
+might be, you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-3
+00:13:38.026 --> 00:13:43.019
+<v Weishung Liu>what is a scenario that we're enabling,
+what is a use case that we're enabling,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-4
+00:13:43.019 --> 00:13:47.512
+<v Weishung Liu>and how do we kind of bring, again,
+and maybe I'm going to harp on it a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2792-5
+00:13:47.512 --> 00:13:48.198
+<v Weishung Liu>little bit.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2816-0
+00:13:48.518 --> 00:13:53.112
+<v Weishung Liu>How do we bring people back, right?
+Because I think there's definitely like</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2816-1
+00:13:53.112 --> 00:13:57.948
+<v Weishung Liu>the weight loss app or that concept of if,
+again, if it's towards bodybuilding,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2813-0
+00:13:57.558 --> 00:13:58.918
+<v Jennifer Marsman>Consistency is key.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2816-2
+00:13:57.948 --> 00:13:59.398
+<v Weishung Liu>how do we think about...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-0
+00:14:00.958 --> 00:14:04.793
+<v Weishung Liu>getting you like,
+I think there might be already be an</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-1
+00:14:04.793 --> 00:14:09.673
+<v Weishung Liu>incentive if you're targeting like a
+certain, you know, muscle ratio,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-2
+00:14:09.673 --> 00:14:13.648
+<v Weishung Liu>body fat ratio.
+Like how do you get the users to want to</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-3
+00:14:13.648 --> 00:14:17.343
+<v Weishung Liu>keep participating in that, right?
+Because you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-4
+00:14:17.343 --> 00:14:22.154
+<v Weishung Liu>as they're doing weigh-ins,
+as they're doing these other things like</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2854-0
+00:14:18.918 --> 00:14:19.558
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2873-5
+00:14:22.154 --> 00:14:23.478
+<v Weishung Liu>every day check-in.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2867-0
+00:14:24.038 --> 00:14:24.598
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2885-0
+00:14:27.638 --> 00:14:28.358
+<v Jennifer Marsman>We might need a...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2897-0
+00:14:32.438 --> 00:14:32.998
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2918-0
+00:14:33.158 --> 00:14:36.420
+<v Weishung Liu>somehow understands,
+because I'm doing it every day,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2905-0
+00:14:34.518 --> 00:14:35.078
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2918-1
+00:14:36.420 --> 00:14:38.758
+<v Weishung Liu>that you can see the change over time.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2911-0
+00:14:36.678 --> 00:14:37.398
+<v Jennifer Marsman>Yeah, we...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-0
+00:14:38.918 --> 00:14:41.366
+<v Jennifer Marsman>Yeah,
+we might need to partner with like a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-1
+00:14:41.366 --> 00:14:45.522
+<v Jennifer Marsman>smart scale type company if we wanted to
+get that body composition info.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-2
+00:14:45.522 --> 00:14:49.678
+<v Jennifer Marsman>So that's another great part.
+Alex has a point and then after he's done,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-3
+00:14:49.678 --> 00:14:53.037
+<v Jennifer Marsman>I'm going to suggest,
+I wonder if we should start thinking</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-4
+00:14:53.037 --> 00:14:57.819
+<v Jennifer Marsman>about like the UI for let's so so the end
+goal and here's a UI and like when I open</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-5
+00:14:57.819 --> 00:15:00.893
+<v Jennifer Marsman>up the app,
+like what is the experience and what what</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/2983-6
+00:15:00.893 --> 00:15:03.398
+<v Jennifer Marsman>kind of things do we need in the MVP?
+Like.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-0
+00:15:03.798 --> 00:15:06.930
+<v Jennifer Marsman>I think weight tracking,
+if the end goal is to lose weight,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-1
+00:15:06.930 --> 00:15:09.488
+<v Jennifer Marsman>the first thing we need to log is weight,
+right?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-2
+00:15:09.488 --> 00:15:11.994
+<v Jennifer Marsman>Because we need to see if that's tracking
+down.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-3
+00:15:11.994 --> 00:15:14.760
+<v Jennifer Marsman>But then there may be other things as
+well. So like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-4
+00:15:14.760 --> 00:15:18.362
+<v Jennifer Marsman>what would that UI look like?
+Would it be like a journey type thing,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-5
+00:15:18.362 --> 00:15:21.233
+<v Jennifer Marsman>like Duolingo?
+Would it be just like a table almost of</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-6
+00:15:21.233 --> 00:15:23.948
+<v Jennifer Marsman>your weight?
+Would it be a graph showing the up and</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3036-7
+00:15:23.948 --> 00:15:24.678
+<v Jennifer Marsman>down movement?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3053-0
+00:15:25.118 --> 00:15:29.255
+<v Jennifer Marsman>Maybe let's start thinking about like
+what is it that we want to show and what</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3053-1
+00:15:29.255 --> 00:15:33.078
+<v Jennifer Marsman>needs to be an MVP. All right, sorry,
+Alex, I know you had your hand up.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3100-0
+00:15:33.718 --> 00:15:36.822
+<v Alex Blanton>Yeah, I mean,
+my point goes right along with what you</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3100-1
+00:15:36.822 --> 00:15:41.420
+<v Alex Blanton>were saying, but though, because like,
+sort of you can have like weight loss is</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3100-2
+00:15:41.420 --> 00:15:45.214
+<v Alex Blanton>maybe an end goal, you know,
+but then how do you make a sort of a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3100-3
+00:15:45.214 --> 00:15:49.697
+<v Alex Blanton>maintenance be a compelling experience?
+It's sort of not quite as exciting as</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3100-4
+00:15:49.697 --> 00:15:52.398
+<v Alex Blanton>accomplishing a goal, you know,
+staying at it.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3115-0
+00:15:52.518 --> 00:15:57.928
+<v Alex Blanton>at a state is harder to gamify or to like
+motivate people.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3115-1
+00:15:57.928 --> 00:16:00.678
+<v Alex Blanton>So I think how we think about.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3167-0
+00:16:01.838 --> 00:16:06.617
+<v Alex Blanton>incenting people to come back and stay
+engaged even after they reach one goal.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3167-1
+00:16:06.617 --> 00:16:10.306
+<v Alex Blanton>But also, obviously,
+we're not driving people to lose weight</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3167-2
+00:16:10.306 --> 00:16:13.149
+<v Alex Blanton>endlessly.
+So I feel like that could be just a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3138-0
+00:16:10.478 --> 00:16:10.998
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3167-3
+00:16:13.149 --> 00:16:16.052
+<v Alex Blanton>challenge with the mentality about coming
+back.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3147-0
+00:16:14.558 --> 00:16:14.758
+<v Jennifer Marsman>Em.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3167-4
+00:16:16.052 --> 00:16:19.318
+<v Alex Blanton>I don't have an answer just raising that
+as an issue.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-0
+00:16:19.078 --> 00:16:23.211
+<v Jennifer Marsman>That's a great point.
+So maybe people have a target weight then.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-1
+00:16:23.211 --> 00:16:26.136
+<v Jennifer Marsman>So maybe the initial, like,
+I hate to say it,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-2
+00:16:26.136 --> 00:16:29.506
+<v Jennifer Marsman>like unboxing experience,
+that's not the right word,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-3
+00:16:29.506 --> 00:16:33.130
+<v Jennifer Marsman>but I'm thinking of my kids.
+But the initial experience,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-4
+00:16:33.130 --> 00:16:37.899
+<v Jennifer Marsman>like when you first log in and create an
+account, maybe you put like your,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3213-5
+00:16:37.899 --> 00:16:41.078
+<v Jennifer Marsman>I enter my, you know, my name,
+my current weight,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3251-0
+00:16:42.198 --> 00:16:46.576
+<v Jennifer Marsman>and my height or whatever,
+and then the app can help calculate,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3251-1
+00:16:46.576 --> 00:16:52.253
+<v Jennifer Marsman>and I guess your gender might be needed,
+and maybe the app can calculate like what</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3251-2
+00:16:52.253 --> 00:16:56.698
+<v Jennifer Marsman>a good BMI is for you,
+and then you can choose something in that</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3251-3
+00:16:56.698 --> 00:17:00.118
+<v Jennifer Marsman>range, or I don't know,
+or we just let the person</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3285-0
+00:17:00.838 --> 00:17:05.188
+<v Jennifer Marsman>put in their own target weight.
+So that way we do have that nice ending</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3285-1
+00:17:05.188 --> 00:17:07.726
+<v Jennifer Marsman>thing.
+And then we could have a fireworks</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3285-2
+00:17:07.726 --> 00:17:12.438
+<v Jennifer Marsman>graphic when they make it or something
+fun like that, something to celebrate.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3317-0
+00:17:11.718 --> 00:17:17.104
+<v Weishung Liu>I love onboarding experiences.
+They are what help get you into that sort</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3317-1
+00:17:17.104 --> 00:17:20.794
+<v Weishung Liu>of like,
+that retention period of now that you've</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3293-0
+00:17:18.038 --> 00:17:18.438
+<v Jennifer Marsman>Okay.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3317-2
+00:17:20.794 --> 00:17:25.958
+<v Weishung Liu>put it in, now do it again.
+Now do it again. That's how you get them.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3308-0
+00:17:23.798 --> 00:17:24.438
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3312-0
+00:17:26.518 --> 00:17:26.998
+<v Jennifer Marsman>Okay.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-0
+00:17:27.958 --> 00:17:31.444
+<v Sarah Watrous>The other thing too is like,
+and I know Alex will probably have</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-1
+00:17:31.444 --> 00:17:33.950
+<v Sarah Watrous>something to say about AI and the risks
+here,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-2
+00:17:33.950 --> 00:17:38.253
+<v Sarah Watrous>but there's so much that we're seeing
+about AI being able to catch markers and</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-3
+00:17:38.253 --> 00:17:42.502
+<v Sarah Watrous>signals of your health in different ways
+than we've not thought about before.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-4
+00:17:42.502 --> 00:17:46.315
+<v Sarah Watrous>So what can the app do that's
+sophisticated enough to offer something</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-5
+00:17:46.315 --> 00:17:49.855
+<v Sarah Watrous>unique and different than what the
+current market has? So again,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3387-6
+00:17:49.855 --> 00:17:51.598
+<v Sarah Watrous>it's about how we differentiate.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-0
+00:17:51.678 --> 00:17:54.433
+<v Sarah Watrous>pick our target customer,
+market segmentation,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-1
+00:17:54.433 --> 00:17:58.712
+<v Sarah Watrous>and then what information can the app
+capture and what can we build out?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-2
+00:17:58.712 --> 00:18:03.636
+<v Sarah Watrous>There's so much biometric data available.
+So I really think that we need to partner</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-3
+00:18:03.636 --> 00:18:07.153
+<v Sarah Watrous>with some sort of,
+either it's a wearable or something else</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-4
+00:18:07.153 --> 00:18:10.436
+<v Sarah Watrous>besides just an app that's like doing
+calorie counting,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3440-5
+00:18:10.436 --> 00:18:13.718
+<v Sarah Watrous>because that's not unique and new enough
+to the market.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-0
+00:18:14.238 --> 00:18:17.897
+<v Jennifer Marsman>Got it. Okay.
+So I think there's two areas of research</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-1
+00:18:17.897 --> 00:18:22.088
+<v Jennifer Marsman>that we need to tackle after this meeting.
+Number one is like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-2
+00:18:22.088 --> 00:18:26.944
+<v Jennifer Marsman>what is the best target market for this?
+Number 2 is potential partners,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-3
+00:18:26.944 --> 00:18:31.268
+<v Jennifer Marsman>especially in the hardware thing,
+smart watches, heart trackers,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-4
+00:18:31.268 --> 00:18:35.259
+<v Jennifer Marsman>stress trackers,
+like all of the great stuff, smart scales,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3493-5
+00:18:35.259 --> 00:18:38.718
+<v Jennifer Marsman>stuff that's out there already so we can
+figure out</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3536-0
+00:18:38.798 --> 00:18:43.618
+<v Jennifer Marsman>integration.
+So I think those are two research jobs to</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3536-1
+00:18:43.618 --> 00:18:47.649
+<v Jennifer Marsman>be done.
+And then given all like what we know</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3536-2
+00:18:47.649 --> 00:18:52.030
+<v Jennifer Marsman>right now,
+is there anything else like we'll come</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3536-3
+00:18:52.030 --> 00:18:58.427
+<v Jennifer Marsman>back and adjust the plan once we have
+that research. But like right now,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3536-4
+00:18:58.427 --> 00:18:59.478
+<v Jennifer Marsman>the minimum.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-0
+00:18:59.758 --> 00:19:03.735
+<v Jennifer Marsman>like an MVP for success.
+Let's kind of throw out like what that</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-1
+00:19:03.735 --> 00:19:08.457
+<v Jennifer Marsman>might look like and we can put out like
+UX as well, but like exit criteria,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-2
+00:19:08.457 --> 00:19:11.440
+<v Jennifer Marsman>I guess.
+Like what are the things where like at</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-3
+00:19:11.440 --> 00:19:16.100
+<v Jennifer Marsman>minimum we need to be tracking weight
+because the end goal is weight loss.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-4
+00:19:16.100 --> 00:19:20.884
+<v Jennifer Marsman>And then I think we need all those things
+that I mentioned in the onboarding</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3586-5
+00:19:20.884 --> 00:19:21.878
+<v Jennifer Marsman>section kind of.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-0
+00:19:22.118 --> 00:19:25.644
+<v Jennifer Marsman>part of like,
+here's the stuff we need to know to help</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-1
+00:19:25.644 --> 00:19:29.233
+<v Jennifer Marsman>make good decisions.
+Is there any other data we need or</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-2
+00:19:29.233 --> 00:19:33.848
+<v Jennifer Marsman>thoughts on like the UI and like what
+after that onboarding experience,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-3
+00:19:33.848 --> 00:19:37.117
+<v Jennifer Marsman>like what should the screen show or what
+could we,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-4
+00:19:37.117 --> 00:19:40.835
+<v Jennifer Marsman>how could we kind of motivate them to
+take the next step?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3632-5
+00:19:40.835 --> 00:19:43.078
+<v Jennifer Marsman>Is AI suggesting a next step given?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3659-0
+00:19:43.958 --> 00:19:47.262
+<v Jennifer Marsman>you know, your lifestyle.
+I guess that's another thing that matters</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3659-1
+00:19:47.262 --> 00:19:50.712
+<v Jennifer Marsman>if you work behind a desk versus you're
+on your feet all day. So like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3659-2
+00:19:50.712 --> 00:19:54.598
+<v Jennifer Marsman>what are all those things that we should
+be gathering and then how do we, yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3654-0
+00:19:52.758 --> 00:19:53.558
+<v Alex Blanton>I, I...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3702-0
+00:19:54.718 --> 00:19:59.984
+<v Alex Blanton>I think AI could suggest some goals.
+I think we definitely want the user,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3702-1
+00:19:59.984 --> 00:20:04.752
+<v Alex Blanton>I think we should be framed as a
+suggestion though, not like, hey,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3702-2
+00:20:04.752 --> 00:20:08.168
+<v Alex Blanton>we've analyzed you,
+this is what you should do.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3702-3
+00:20:08.168 --> 00:20:13.718
+<v Alex Blanton>Like we need to make sure the user feels
+in control of their journey and can.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3707-0
+00:20:13.878 --> 00:20:15.958
+<v Alex Blanton>Finalize on the goals they're going after.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3746-0
+00:20:16.518 --> 00:20:19.602
+<v Jennifer Marsman>Right. If it's AI,
+we should definitely have it as a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3746-1
+00:20:19.602 --> 00:20:24.315
+<v Jennifer Marsman>suggestion anyway and also explicitly let
+them know where AI is used in the app.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3725-0
+00:20:20.518 --> 00:20:21.638
+<v Alex Blanton>Yeah, exactly.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3746-2
+00:20:24.315 --> 00:20:28.038
+<v Jennifer Marsman>That should always be presented to the
+user. I agree with that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3747-0
+00:20:28.918 --> 00:20:32.198
+<v Idan Gazit>So when I think about what's the unique
+like...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-0
+00:20:33.278 --> 00:20:38.101
+<v Idan Gazit>quality of AI when it comes to these
+kinds of things is it's sort of like one</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-1
+00:20:38.101 --> 00:20:42.243
+<v Idan Gazit>or two things that jumps out at me.
+The first is it's not a human.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-2
+00:20:42.243 --> 00:20:46.695
+<v Idan Gazit>I feel less embarrassed in front of the
+AI because it's not, it's like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3789-0
+00:20:45.638 --> 00:20:48.518
+<v Jennifer Marsman>That good, really good point.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3785-0
+00:20:46.678 --> 00:20:47.718
+<v Alex Blanton>That's a really good point.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-3
+00:20:46.695 --> 00:20:50.467
+<v Idan Gazit>and this is a sensitive topic.
+Nobody wants to be like, man,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-4
+00:20:50.467 --> 00:20:54.485
+<v Idan Gazit>I feel overweight and like,
+I don't want to talk about this with</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3823-5
+00:20:54.485 --> 00:20:55.598
+<v Idan Gazit>other people, but.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3873-0
+00:20:55.718 --> 00:20:59.132
+<v Idan Gazit>maybe it's okay because the robot doesn't
+judge me.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3873-1
+00:20:59.132 --> 00:21:04.582
+<v Idan Gazit>It just keeps being chipper and telling
+me like, okay, like you're going to do it.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3873-2
+00:21:04.582 --> 00:21:09.637
+<v Idan Gazit>Today's the day or whatever it is that it
+does. So really leaning into that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3845-0
+00:21:05.638 --> 00:21:06.278
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3873-3
+00:21:09.637 --> 00:21:15.086
+<v Idan Gazit>The other aspect is, of course, you know,
+airing my dirty laundry to the AI in the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3873-4
+00:21:15.086 --> 00:21:17.318
+<v Idan Gazit>form of like, here's all the data.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3916-0
+00:21:17.878 --> 00:21:22.486
+<v Idan Gazit>Like, yes, I work behind a desk.
+That's not going to change. Like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3916-1
+00:21:22.486 --> 00:21:25.788
+<v Idan Gazit>you know,
+this product is not going to suddenly</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3888-0
+00:21:25.478 --> 00:21:25.878
+<v Jennifer Marsman>Right.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3916-2
+00:21:25.788 --> 00:21:30.740
+<v Idan Gazit>change my job, my life, my whatever. So,
+but instead leaning into like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3916-3
+00:21:30.740 --> 00:21:35.967
+<v Idan Gazit>this product takes you as you are and
+helps you find opportunities that fit</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3916-4
+00:21:35.967 --> 00:21:36.998
+<v Idan Gazit>into your life.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3922-0
+00:21:37.398 --> 00:21:40.518
+<v Idan Gazit>That's the emotional heart of this
+product to me.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3919-0
+00:21:39.238 --> 00:21:39.878
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3924-0
+00:21:40.478 --> 00:21:40.998
+<v Alex Blanton>Mhm.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3970-0
+00:21:41.078 --> 00:21:43.346
+<v Jennifer Marsman>Maybe,
+maybe that could be like the next step</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3970-1
+00:21:43.346 --> 00:21:47.191
+<v Jennifer Marsman>that like Weiwei was talking about or
+something that makes it sticky and come</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3970-2
+00:21:47.191 --> 00:21:49.804
+<v Jennifer Marsman>back to you.
+Maybe every day it has a new suggestion</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3972-0
+00:21:47.638 --> 00:21:52.198
+<v Alex Blanton>I like that title for the app or the name,
+the next step that we can name it that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3970-3
+00:21:49.804 --> 00:21:50.198
+<v Jennifer Marsman>for you.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/3979-0
+00:21:51.238 --> 00:21:57.238
+<v Jennifer Marsman>The next step, that is a good title.
+I love that. Great idea. But like...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-0
+00:21:58.278 --> 00:22:01.559
+<v Jennifer Marsman>Like day one,
+it's just like drink more water kind of</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-1
+00:22:01.559 --> 00:22:06.479
+<v Jennifer Marsman>deal or like something that's pretty easy.
+And then every day you add on another</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-2
+00:22:06.479 --> 00:22:10.488
+<v Jennifer Marsman>step towards your weight loss journey,
+that would make it sticky.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4008-0
+00:22:08.998 --> 00:22:09.638
+<v Alex Blanton>Mm-hmm.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-3
+00:22:10.488 --> 00:22:13.221
+<v Jennifer Marsman>And then there's a new suggestion every
+day.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-4
+00:22:13.221 --> 00:22:17.534
+<v Jennifer Marsman>So you're motivated to come back and get
+the suggestion every day. Oh,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-5
+00:22:17.534 --> 00:22:21.969
+<v Jennifer Marsman>I think Nadia, her hand is up.
+Do you want to say what you were thinking</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4041-6
+00:22:21.969 --> 00:22:22.758
+<v Jennifer Marsman>about, Nadia?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-0
+00:22:22.838 --> 00:22:25.761
+<v Nadia Karim>I couldn't come up with a good persona.
+I got way too nervous.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-1
+00:22:25.761 --> 00:22:28.916
+<v Nadia Karim>So I just typed in the chat. No,
+I was just thinking about like the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-2
+00:22:28.916 --> 00:22:32.164
+<v Nadia Karim>integration component of it, right?
+Like the stuff that we mentioned.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-3
+00:22:32.164 --> 00:22:35.690
+<v Nadia Karim>What if it can already pull from the
+stuff that people are using and then a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-4
+00:22:35.690 --> 00:22:39.216
+<v Nadia Karim>way to enhance the gamification, right?
+Because I might not want to lose my</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4095-5
+00:22:39.216 --> 00:22:42.278
+<v Nadia Karim>streaks in MyFitnessPal and Duolingo and
+whatever else I'm using.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-0
+00:22:42.598 --> 00:22:45.889
+<v Nadia Karim>So if it can pull that in automatically,
+that helps and also prevents me from</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-1
+00:22:45.889 --> 00:22:49.307
+<v Nadia Karim>feeling like I have to set up yet another
+thing, even if I want to use this app.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-2
+00:22:49.307 --> 00:22:52.430
+<v Nadia Karim>But then if we want to keep that
+distinguishing appeal of the app and the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-3
+00:22:52.430 --> 00:22:55.088
+<v Nadia Karim>gamification aspect,
+maybe we can do something different where</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-4
+00:22:55.088 --> 00:22:58.590
+<v Nadia Karim>it gives you some kind of quirky feedback.
+And the example that I used in the chat</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-5
+00:22:58.590 --> 00:23:01.923
+<v Nadia Karim>was people who don't want to see their
+numbers or who can't see their numbers,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4147-6
+00:23:01.923 --> 00:23:02.598
+<v Nadia Karim>if they're like,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4153-0
+00:23:03.518 --> 00:23:05.644
+<v Nadia Karim>I don't know,
+numbers of verse or recovering from like</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4153-1
+00:23:05.644 --> 00:23:05.798
+<v Nadia Karim>a...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-0
+00:23:06.758 --> 00:23:09.643
+<v Nadia Karim>health issue,
+that it could do something fun, like, oh,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4156-0
+00:23:07.038 --> 00:23:07.518
+<v Alex Blanton>Mhm.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-1
+00:23:09.643 --> 00:23:12.786
+<v Nadia Karim>you've drank as much water as it rained
+into the Sara today,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-2
+00:23:12.786 --> 00:23:15.207
+<v Nadia Karim>or like you have the muscle mass of a
+cheetah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4172-0
+00:23:13.318 --> 00:23:13.718
+<v Alex Blanton>Uh-huh.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-3
+00:23:15.207 --> 00:23:19.277
+<v Nadia Karim>It's like a gamification thing for the
+people who don't have an issue with the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4180-0
+00:23:15.398 --> 00:23:16.278
+<v Alex Blanton>That's awesome.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-4
+00:23:19.277 --> 00:23:21.853
+<v Nadia Karim>numbers,
+but can also provide obfuscation for the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-5
+00:23:21.853 --> 00:23:26.181
+<v Nadia Karim>people who can't see numbers every day or
+who that's dangerous for in whatever way.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4203-0
+00:23:25.318 --> 00:23:26.118
+<v Jennifer Marsman>I love that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4212-6
+00:23:26.181 --> 00:23:26.438
+<v Nadia Karim>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4207-0
+00:23:27.278 --> 00:23:28.038
+<v Jennifer Marsman>I love that.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4258-0
+00:23:27.558 --> 00:23:31.843
+<v Nadia Karim>So I thought like that could be a fun way
+to fit a lot of the AI components and the</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4258-1
+00:23:31.843 --> 00:23:34.342
+<v Nadia Karim>integration components we've been talking
+about,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4258-2
+00:23:34.342 --> 00:23:38.321
+<v Nadia Karim>but also add to the whole like experience,
+uniqueness of what we're building.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4258-3
+00:23:38.321 --> 00:23:41.075
+<v Nadia Karim>And obviously, Weiwei was right.
+I love gamification.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4258-4
+00:23:41.075 --> 00:23:42.758
+<v Nadia Karim>So anything in that vein, I mean.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4269-0
+00:23:42.198 --> 00:23:47.090
+<v Jennifer Marsman>That is so cool. I love that suggestion.
+You've lost as much weight as a bunch of</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4260-0
+00:23:44.198 --> 00:23:46.518
+<v Weishung Liu>I... yeah, I'm gonna...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4259-0
+00:23:44.358 --> 00:23:44.838
+<v Nadia Karim>So.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4269-1
+00:23:47.090 --> 00:23:48.998
+<v Jennifer Marsman>grapes. That's such a good idea.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-0
+00:23:49.558 --> 00:23:52.750
+<v Nadia Karim>So that one I stole because I was
+thinking like the pregnancy apps do this</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-1
+00:23:52.750 --> 00:23:55.303
+<v Nadia Karim>thing where they're like,
+your baby is the size of a mango.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-2
+00:23:55.303 --> 00:23:58.494
+<v Nadia Karim>And it's like so weird. But like,
+so what's the positive opposite of that,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4284-0
+00:23:55.438 --> 00:23:55.558
+<v Alex Blanton>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-3
+00:23:58.494 --> 00:24:00.579
+<v Nadia Karim>right?
+And then the like my fitness water water,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4299-0
+00:23:59.238 --> 00:23:59.958
+<v Jennifer Marsman>Yeah!</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-4
+00:24:00.579 --> 00:24:03.430
+<v Nadia Karim>you're not a cactus always refers to like
+deserts and rainforests.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-5
+00:24:03.430 --> 00:24:06.366
+<v Nadia Karim>Like what are the cool things we can
+tweak from those existing apps,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4313-0
+00:24:04.758 --> 00:24:05.318
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-6
+00:24:06.366 --> 00:24:09.642
+<v Nadia Karim>but put them all together. So like,
+you don't know what this app is going to</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-7
+00:24:09.642 --> 00:24:12.110
+<v Nadia Karim>tell you today,
+but it's going to tell you something cool</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4345-8
+00:24:12.110 --> 00:24:12.918
+<v Nadia Karim>about your journey.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4373-0
+00:24:13.398 --> 00:24:16.288
+<v Nadia Karim>And you're going to go back because it's
+kind of like what the forecast,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4373-1
+00:24:16.288 --> 00:24:18.029
+<v Nadia Karim>if you all have ever used this for
+weather,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4373-2
+00:24:18.029 --> 00:24:19.771
+<v Nadia Karim>even if you don't need to know the
+weather,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4373-3
+00:24:19.771 --> 00:24:22.898
+<v Nadia Karim>you're opening that up because you want
+to see what kind of ridiculous **** it</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4366-0
+00:24:22.838 --> 00:24:23.478
+<v Weishung Liu>I...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4373-4
+00:24:22.898 --> 00:24:24.758
+<v Nadia Karim>says today.
+So like it could have that aspect.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4415-0
+00:24:25.238 --> 00:24:28.798
+<v Weishung Liu>Nadia, you,
+I just want to kind of bring up the fact</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4415-1
+00:24:28.798 --> 00:24:32.693
+<v Weishung Liu>that we've said journey quite a few times.
+And, you know,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4384-0
+00:24:32.038 --> 00:24:32.758
+<v Nadia Karim>Yeah, we have.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4415-2
+00:24:32.693 --> 00:24:37.663
+<v Weishung Liu>and if we call it the next step,
+like I feel like it almost sounds like a</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4415-3
+00:24:37.663 --> 00:24:41.962
+<v Weishung Liu>game to me, like a journey,
+like every day you're kind of true,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4415-4
+00:24:41.962 --> 00:24:45.118
+<v Weishung Liu>like you take the next step into another
+part.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4423-0
+00:24:45.838 --> 00:24:46.878
+<v Weishung Liu>Of something.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-0
+00:24:47.838 --> 00:24:51.217
+<v Weishung Liu>and like as a visual, right?
+Because then you feel like though that</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4422-0
+00:24:50.078 --> 00:24:50.558
+<v Alex Blanton>Mmh.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-1
+00:24:51.217 --> 00:24:54.149
+<v Weishung Liu>you've stepped in,
+like there's something new that you see</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4436-0
+00:24:53.118 --> 00:24:53.438
+<v Nadia Karim>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-2
+00:24:54.149 --> 00:24:57.876
+<v Weishung Liu>every day, just like Nadia said,
+like your little avatar is in a new place</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-3
+00:24:57.876 --> 00:25:01.056
+<v Weishung Liu>because you've taken the next step on
+your weight loss journey.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4456-0
+00:24:59.918 --> 00:25:00.718
+<v Alex Blanton>Yeah, yeah, yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4455-0
+00:25:00.238 --> 00:25:00.558
+<v Nadia Karim>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-4
+00:25:01.056 --> 00:25:03.789
+<v Weishung Liu>And not only that,
+you've discovered that like grapes,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4477-5
+00:25:03.789 --> 00:25:07.118
+<v Weishung Liu>I've lost grapes. I've lost a mango.
+I've lost a whole watermelon.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4465-0
+00:25:04.918 --> 00:25:05.118
+<v Nadia Karim>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4475-0
+00:25:08.318 --> 00:25:09.278
+<v Jennifer Marsman>Alright, that's so...</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4502-0
+00:25:08.638 --> 00:25:10.620
+<v Nadia Karim>I'm a big proponent of like cozy gaming
+too.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4502-1
+00:25:10.620 --> 00:25:14.012
+<v Nadia Karim>So like the whole like Stardew Valley is
+all the type of vibes and like, oh,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4502-2
+00:25:14.012 --> 00:25:16.478
+<v Nadia Karim>if you could do this,
+this could be more fun. But yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4493-0
+00:25:14.478 --> 00:25:14.958
+<v Jennifer Marsman>Yeah.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4545-0
+00:25:16.558 --> 00:25:19.477
+<v Jennifer Marsman>Yeah,
+I feel like there's a lot of weight loss</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4545-1
+00:25:19.477 --> 00:25:24.632
+<v Jennifer Marsman>apps right now with like a little avatar
+or a little cartoon character that's like</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4545-2
+00:25:24.632 --> 00:25:28.358
+<v Jennifer Marsman>urging you on or whatever,
+some kind of little thingy to be</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4545-3
+00:25:28.358 --> 00:25:33.016
+<v Jennifer Marsman>encouraging. That's so interesting. Okay,
+well, I see we're about at time.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4545-4
+00:25:33.016 --> 00:25:35.438
+<v Jennifer Marsman>We definitely have more research to do.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4589-0
+00:25:35.838 --> 00:25:40.420
+<v Jennifer Marsman>And I think the next step is probably to
+take all these requirements and build</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4589-1
+00:25:40.420 --> 00:25:43.726
+<v Jennifer Marsman>them into a spec,
+and then we can get implementing after</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4589-2
+00:25:43.726 --> 00:25:46.452
+<v Jennifer Marsman>that.
+Does anyone have any final thoughts they</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4589-3
+00:25:46.452 --> 00:25:51.034
+<v Jennifer Marsman>want to share before we conclude on other
+requirements we might have missed or</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4568-0
+00:25:47.598 --> 00:25:48.078
+<v Alex Blanton>Is that?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4572-0
+00:25:49.118 --> 00:25:49.678
+<v Alex Blanton>Jake.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4589-4
+00:25:51.034 --> 00:25:52.078
+<v Jennifer Marsman>thoughts you have?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4594-0
+00:25:51.278 --> 00:25:53.786
+<v Alex Blanton>Jennifer,
+is that action item on you then to build</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4594-1
+00:25:53.786 --> 00:25:56.638
+<v Alex Blanton>that spec or are you looking for someone
+else to do that?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4597-0
+00:25:56.678 --> 00:25:58.958
+<v Nadia Karim>Are you creating a shared space for us to
+plan?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4639-0
+00:25:59.838 --> 00:26:05.798
+<v Jennifer Marsman>I think the next step is that we have an
+agent try to build the app,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4610-0
+00:26:04.878 --> 00:26:05.678
+<v Nadia Karim>Who?</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4639-1
+00:26:05.798 --> 00:26:12.621
+<v Jennifer Marsman>the spec from this. All right? Wonderful.
+All right. So cool. All right. Well,</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4621-0
+00:26:06.638 --> 00:26:10.878
+<v Alex Blanton>Sounds great. That sounds perfect.
+Love it.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4639-2
+00:26:12.621 --> 00:26:17.198
+<v Jennifer Marsman>thank you guys so much for this great
+brainstorming.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4651-0
+00:26:17.518 --> 00:26:20.229
+<v Jennifer Marsman>and I can't wait to see like what we
+build.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4651-1
+00:26:20.229 --> 00:26:23.678
+<v Jennifer Marsman>We'll check in again at tomorrow's stand
+up. Take care.</v>
+
+0d6823e1-8a2d-4538-ac7b-226e59992db0/4652-0
+00:26:25.158 --> 00:26:25.358
+<v Alex Blanton>Hi.</v>
