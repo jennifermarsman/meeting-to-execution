@@ -1,0 +1,181 @@
+{
+  "project": "The Next Step",
+  "asOf": "2026-09-23",
+  "repository": "jennifermarsman/meeting-to-execution",
+  "source": "meeting-to-discuss-software.vtt",
+  "release": "Local prototype only; not approved for real-user pilot or production.",
+  "artifacts": [
+    {
+      "title": "Decision log",
+      "path": "docs/decisions.md"
+    },
+    {
+      "title": "Research brief",
+      "path": "docs/research.md"
+    },
+    {
+      "title": "Requirements",
+      "path": "docs/requirements.md"
+    },
+    {
+      "title": "Success criteria",
+      "path": "docs/success-criteria.md"
+    },
+    {
+      "title": "Draft PR plans",
+      "path": "docs/pr-plans.md"
+    }
+  ],
+  "verification": {
+    "state": "automated-checks-passed",
+    "summary": "13 Node model/storage/server/status tests and 22 Chromium browser scenarios passed on September 23, 2026, at 1280px desktop and 375px mobile widths. Browser checks cover persistence, explicit edits, daily rewards, number hiding, maintenance, export/erase, storage errors, cross-tab conflicts, no external requests and layout overflow. Screenshot review completed. Real-device/Safari, assistive-technology, user-study and specialist reviews remain outstanding. Minimal-host Chromium tests used session-local libnspr4/libnss3; no system packages were changed."
+  },
+  "items": [
+    {
+      "id": "research-spec",
+      "title": "Review meeting-derived decisions, research and MVP specification",
+      "status": "ready-for-review",
+      "owner": "Product lead (proposed)",
+      "evidence": "D03/D07; transcript 18:14-18:52 and 25:35-26:12; docs/research.md",
+      "acceptance": [
+        "Separate meeting decisions, hypotheses and agent recommendations.",
+        "Review primary-source competitor and partner evidence.",
+        "Approve or revise requirements and measurable acceptance criteria."
+      ],
+      "dependsOn": [],
+      "plan": "PR-A",
+      "delivery": "Decision log, research brief, specification and criteria authored locally.",
+      "issue": 1
+    },
+    {
+      "id": "client-discovery",
+      "title": "Confirm client business, target segment, brand and pilot budget",
+      "status": "blocked",
+      "owner": "Jennifer (recorded client follow-up); product lead for discovery (proposed)",
+      "evidence": "D06; transcript 12:31-13:03; docs/research.md segment recommendation",
+      "acceptance": [
+        "Confirm whether the app supports another client product and document funding/distribution constraints.",
+        "Recruit 12 adult participants and execute SC discovery tasks.",
+        "Approve audience, working title and first native platform based on evidence."
+      ],
+      "dependsOn": [
+        "research-spec"
+      ],
+      "plan": "PR-A",
+      "delivery": "Recommendation and interview protocol drafted; client answers, brand clearance and participant evidence unavailable.",
+      "issue": 2
+    },
+    {
+      "id": "privacy-safety",
+      "title": "Approve privacy, safety and production data handling before pilot",
+      "status": "blocked",
+      "owner": "Privacy/legal and clinical reviewers (proposed)",
+      "evidence": "D02/D05; transcript 02:36-03:14, 09:46-11:34, 19:54-20:24",
+      "acceptance": [
+        "Review data inventory, consent, storage, retention, export, erasure and incident obligations for actual jurisdictions.",
+        "Approve neutral prompts, optional targets and numbers-hidden/maintenance behavior.",
+        "Define a production storage/authentication threat model; no compliance claim from prototype."
+      ],
+      "dependsOn": [
+        "research-spec"
+      ],
+      "plan": "PR-B",
+      "delivery": "Prototype minimization controls specified; specialist approval and production architecture outstanding.",
+      "issue": 3
+    },
+    {
+      "id": "weight-prototype",
+      "title": "Implement private onboarding, weight history and data controls",
+      "status": "ready-for-review",
+      "owner": "Engineering (agent implementation; human review needed)",
+      "evidence": "D04; transcript 15:03-15:29, 18:59-19:37; R01/R02/R07/R08",
+      "acceptance": [
+        "Pass SC01-SC03 and SC07-SC08.",
+        "Support kg/lb, dated weights, explicit edits, deletion and neutral graph.",
+        "No identifying fields, external requests or implicit persistence."
+      ],
+      "dependsOn": [
+        "research-spec"
+      ],
+      "plan": "PR-B",
+      "delivery": "Implemented locally: optional-storage onboarding, canonical kg/lb logging, explicit edits/deletes, neutral graph, JSON export and scoped erasure. Automated checks passed; human review pending.",
+      "issue": 4
+    },
+    {
+      "id": "journey-prototype",
+      "title": "Implement daily journey, hidden numbers and maintenance",
+      "status": "ready-for-review",
+      "owner": "Engineering/design (proposed review owners)",
+      "evidence": "Transcript 15:33-16:16, 21:41-22:13, 22:52-25:28; R03-R06",
+      "acceptance": [
+        "Pass SC04-SC06 and SC09.",
+        "Reward daily chosen actions rather than weight loss; support swap/undo.",
+        "Label authored prompts honestly and never automatically lower a target."
+      ],
+      "dependsOn": [
+        "research-spec"
+      ],
+      "plan": "PR-B",
+      "delivery": "Implemented locally: authored daily prompts, swap/complete/undo, repeating meadow chapters, maintenance and weight-number hiding. Automated checks passed; user and accessibility validation pending.",
+      "issue": 5
+    },
+    {
+      "id": "native-integration",
+      "title": "Validate consented native weight integration and partner feasibility",
+      "status": "blocked",
+      "owner": "Mobile/integrations lead (proposed)",
+      "evidence": "D03; transcript 08:22-09:40, 18:14-18:43, 22:22-22:49; research S5-S8",
+      "acceptance": [
+        "Select HealthKit or Health Connect from recruited device mix.",
+        "Prove permission denial/revocation, provenance, deduplication and unit conversion on a device.",
+        "Evaluate Withings credentials/terms and Garmin licensing separately; do not promise streak imports."
+      ],
+      "dependsOn": [
+        "client-discovery",
+        "privacy-safety"
+      ],
+      "plan": "PR-C",
+      "delivery": "API feasibility researched and spike planned; no device connection or partner agreement.",
+      "issue": 6
+    },
+    {
+      "id": "business-ai",
+      "title": "Validate monetization and gate any future AI personalization",
+      "status": "deferred",
+      "owner": "Product/commercial lead and AI safety reviewer (proposed)",
+      "evidence": "Transcript 03:21-03:56, 06:06-08:16, 17:27-18:10, 19:54-20:24",
+      "acceptance": [
+        "Validate willingness to pay and unit economics before billing implementation.",
+        "Keep tracking/privacy controls free in the proposed model.",
+        "Before AI, approve provider data handling, disclosure, cost bounds and safety evaluations; user retains control."
+      ],
+      "dependsOn": [
+        "client-discovery",
+        "privacy-safety"
+      ],
+      "plan": "PR-D",
+      "delivery": "Freemium hypothesis documented; no price, revenue, model integration or billing.",
+      "issue": 7
+    },
+    {
+      "id": "delivery-status",
+      "title": "Publish traceable execution status, issues and verification evidence",
+      "status": "ready-for-review",
+      "owner": "Engineering/project lead (proposed)",
+      "evidence": "User request; R09; SC10",
+      "acceptance": [
+        "Create one GitHub issue per manifest item without duplicates on rerun.",
+        "Generate team status HTML/Markdown from the same manifest, with links and blockers.",
+        "Record actual verification; label PR plans as drafts and local code as unmerged."
+      ],
+      "dependsOn": [
+        "research-spec",
+        "weight-prototype",
+        "journey-prototype"
+      ],
+      "plan": "PR-A / PR-B",
+      "delivery": "Reproducible HTML/Markdown status, issue publishing and four draft PR plans implemented. See individual issue links for publishing outcome. Local code remains uncommitted and unmerged; no deployment.",
+      "issue": 8
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#244a3d">
+  <title>The Next Step | A little progress, on your terms</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="The Next Step home"><span class="brand-mark" aria-hidden="true">n.</span><span>the next step<span class="brand-sub">SMALL STEPS. YOUR JOURNEY.</span></span></a>
+    <nav aria-label="Main navigation"><a class="active" href="/">My journey</a><a href="/status.html">Team status</a><button id="settings-button" class="quiet" hidden>Preferences</button></nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <div id="error" class="notice error" role="alert" hidden></div>
+    <div id="message" class="message" role="status" aria-live="polite"></div>
+    <section id="recovery" class="card" hidden>
+      <h1>Your saved data needs attention</h1>
+      <p>Nothing has been overwritten. You can download the existing raw record for recovery, or explicitly erase this app's data. If storage is blocked, enable it for this local page and reload.</p>
+      <button id="recover-download">Download recovery data</button>
+      <button id="recover-erase" class="danger">Erase app data and start again</button>
+    </section>
+    <section id="welcome">
+      <div class="welcome-grid">
+        <div class="welcome-copy"><span class="eyebrow">A LITTLE PROGRESS. A LITTLE MORE YOU.</span><h1>You don't need a big leap.<br>Just a next step.</h1><p class="intro">A quieter place to check in, notice your progress, and build a routine that fits your life. No race. No perfect streak required.</p><div class="pills"><span>On your terms</span><span>No account</span><span>No cloud AI</span></div><div class="welcome-landscape" aria-hidden="true"><span class="sun"></span><span class="hill hill-back"></span><span class="hill hill-front"></span><span class="sprout">Y</span><span class="landscape-caption">Room to grow, at your own pace.</span></div></div>
+        <form id="onboard-form" class="card onboarding">
+          <span class="eyebrow">LET'S MAKE THIS YOURS</span><h2>Where would you like to begin?</h2>
+          <label for="onboard-mode">My focus</label><select id="onboard-mode" name="mode"><option value="habits">Build a gentle routine</option><option value="goal">Track toward my own weight goal</option><option value="maintenance">Maintain and keep showing up</option></select>
+          <label for="onboard-unit">Weight units</label><select id="onboard-unit" name="unit"><option value="kg">Kilograms (kg)</option><option value="lb">Pounds (lb)</option></select>
+          <label class="check"><input name="hideNumbers" type="checkbox">Hide weight numbers and focus on my journey</label>
+          <label class="check"><input name="persist" type="checkbox">Save my journey in this browser</label>
+          <p class="fine">Optional, unencrypted browser storage. Anyone with access to this browser may see it. Otherwise, your journey lasts only until you reload. Use synthetic data for this prototype.</p>
+          <button class="primary full" type="submit">Start my journey <span aria-hidden="true">&rarr;</span></button>
+          <button id="demo-button" type="button" class="quiet full">Explore a synthetic sample first</button>
+          <p class="fine">Adult concept prototype. No medical advice, target recommendations, or real AI. Weight logging is always optional.</p>
+        </form>
+      </div>
+    </section>
+    <section id="dashboard" hidden>
+      <div class="page-heading"><div><span id="today-label" class="eyebrow"></span><h1>A little step is still a step.</h1><p>You set the pace. We're here for the journey.</p></div><span id="storage-badge" class="badge"></span></div>
+      <div id="demo-notice" class="notice" hidden>Synthetic sample &middot; Nothing here is a real person's data or saved to your browser. <button id="exit-demo" class="text-button">Start my own journey</button></div>
+      <div class="dashboard-grid">
+        <section class="card journey-card" aria-labelledby="journey-heading">
+          <div class="card-heading"><div><span class="eyebrow">YOUR LITTLE ADVENTURE</span><h2 id="journey-heading">The meadow path</h2></div><span id="chapter-badge" class="badge"></span></div>
+          <p>Every chosen step makes room for something good.</p>
+          <div id="journey-scene" class="journey-scene"></div>
+          <div class="journey-bottom"><span id="journey-count"></span><span>No streaks to lose. Always a way forward.</span></div>
+        </section>
+        <section class="card prompt-card" aria-labelledby="prompt-title">
+          <span class="eyebrow">TODAY'S NEXT STEP</span><span id="prompt-tag" class="prompt-tag"></span><h2 id="prompt-title"></h2><p id="prompt-text"></p>
+          <div class="prompt-actions"><button id="complete-button" class="primary"></button><button id="swap-button" class="quiet">Try a different step</button></div><p class="fine">An authored prompt, not AI or medical advice. Choose it, swap it, or skip today. No need to log weight to take part.</p>
+        </section>
+        <section class="card progress-card" aria-labelledby="progress-heading"><div class="card-heading"><div><span class="eyebrow">THE BIGGER PICTURE</span><h2 id="progress-heading">Your check-ins</h2></div><button id="visibility-button" class="quiet"></button></div><div id="progress-content"></div></section>
+        <section class="card focus-card"><span class="eyebrow">PROGRESS, YOUR WAY</span><h2 id="focus-title"></h2><p id="focus-description"></p><div id="target-message"></div><button id="focus-settings" class="quiet">Change my focus</button><hr><span class="eyebrow">PRIVATE BY DESIGN, LIMITED BY PROTOTYPE</span><p class="fine">No accounts, trackers or health-data uploads. Browser storage is not a secure vault. Your data stays on this browser unless you download an export.</p><div class="data-actions"><button id="export-button" class="text-button">Export my data</button><button id="erase-button" class="text-button danger">Erase my data</button></div></section>
+      </div>
+    </section>
+    <footer><span class="footer-brand">Small steps. A path that's yours.</span><span>Concept prototype &middot; No medical advice &middot; <a href="/status.html">From meeting to execution</a></span></footer>
+  </main>
+  <dialog id="settings-dialog" aria-labelledby="settings-title">
+    <form id="settings-form">
+      <span class="eyebrow">YOUR JOURNEY, YOUR CHOICES</span><h2 id="settings-title">Preferences</h2>
+      <label for="settings-mode">My focus</label><select id="settings-mode" name="mode"><option value="habits">Build a gentle routine</option><option value="goal">Track toward my own weight goal</option><option value="maintenance">Maintain and keep showing up</option></select>
+      <label for="settings-unit">Weight units</label><select id="settings-unit" name="unit"><option value="kg">Kilograms (kg)</option><option value="lb">Pounds (lb)</option></select>
+      <label class="check"><input name="hideNumbers" type="checkbox">Hide weight numbers</label>
+      <div id="target-control"></div>
+      <label class="check"><input name="persist" type="checkbox">Save my journey in this browser</label>
+      <p class="fine">Unencrypted on this device. Turning saving off removes this app's saved record; your current session stays open. Exports and browser backups are not erased.</p>
+      <p id="settings-error" class="error" role="alert"></p><div class="dialog-actions"><button class="primary" type="submit">Save preferences</button><button class="quiet" id="cancel-settings" type="button">Cancel</button></div>
+    </form>
+  </dialog>
+  <noscript><p>This local prototype needs JavaScript. No data has been collected.</p></noscript>
+</body>
+</html>
