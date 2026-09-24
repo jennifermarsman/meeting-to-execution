@@ -8,7 +8,7 @@ I used the Copilot CLI with GPT-6-Astra as the underlying model.
 > [!NOTE]
 > Everything in this repository other than this Backstory page was generated this way.  This includes the source code and the issues.  
 
-For a hackathon, I had created some sample data of a [meeting transcript](./meeting-to-discuss-software.vtt), which is included in this repo.  This was created in the following manner: a group of teammates and I basically improvised the conversation.  Prior to the conversation, I assigned some personas so we could discuss/argue about our fictional software in this meeting.  These roles/specific things to be passionate about were chosen so that we would get a good conversation where Responsible AI concerns were raised and there would be some big ambigious questions left open.  
+For a hackathon, I had created some sample data of a [meeting transcript](./meeting-to-discuss-software.vtt), which is included in this repo.  This was created in the following manner: a group of teammates and I basically improvised the conversation.  Prior to the conversation, I assigned some personas so we could discuss/argue about our fictional software in this meeting.  These roles/specific things to be passionate about were chosen so that we would get a good conversation where Responsible AI concerns were raised and there would be some big ambiguous questions left open.  
 
 Below is the overall story and the instructions that I gave the team to improvise the meeting.  
  
